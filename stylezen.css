@@ -1,0 +1,34 @@
+.headerContainer {
+    width: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    left: 50%;
+    right: -50%;
+    text-align: center;
+    background-color: rgb(211,206,217);
+}
+
+.header {
+    width: auto;
+    padding-bottom: 10px;
+    left: 50%;
+    right: -50%;
+    text-align: center;
+    background-color: rgb(211,206,217);
+
+    html {
+        height: 100%;
+    }
+    
+    body {
+        min-height: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    
+    .content {
+        flex: 1 1 auto;
+        margin-left: 25px;
+        margin-right: 
+    }
